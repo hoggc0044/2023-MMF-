@@ -17,8 +17,5 @@ def cash_credit(question):
 while True:
     payment_method = cash_credit("Choose a payment method: cash or credit")
 
-
 print("You chose", payment_method)
-
-
 print("program continues...")
